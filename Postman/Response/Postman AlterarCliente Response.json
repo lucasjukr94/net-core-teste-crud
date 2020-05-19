@@ -1,0 +1,61 @@
+{
+    "response": [
+        {
+            "clientes": {
+                "id": 2,
+                "nome": "Alberto",
+                "dT_NASCIMENTO": "2019-06-18T00:00:00",
+                "status": 2,
+                "daT_INCLUSAO": "2020-05-18T23:32:20"
+            },
+            "clientE_ENDERECOS": [
+                {
+                    "id": 1,
+                    "iD_CLIENTE": 2,
+                    "logradouro": "Faria Lima",
+                    "cep": "22222000",
+                    "uf": "SP",
+                    "cidade": "São Paulo",
+                    "bairro": "Pinheiros",
+                    "status": 2,
+                    "daT_INCLUSAO": "2020-05-18T23:32:20"
+                }
+            ]
+        },
+        {
+            "clientes": {
+                "id": 7,
+                "nome": "José",
+                "dT_NASCIMENTO": "2019-06-18T00:00:00",
+                "status": 2,
+                "daT_INCLUSAO": "2020-05-19T18:54:16"
+            },
+            "clientE_ENDERECOS": [
+                {
+                    "id": 8,
+                    "iD_CLIENTE": 7,
+                    "logradouro": "Faria Lima",
+                    "cep": "22222000",
+                    "uf": "SP",
+                    "cidade": "São Paulo",
+                    "bairro": "Pinheiros",
+                    "status": 2,
+                    "daT_INCLUSAO": "2020-05-19T18:54:16"
+                },
+                {
+                    "id": 9,
+                    "iD_CLIENTE": 7,
+                    "logradouro": "Avenida Paulista",
+                    "cep": "11111000",
+                    "uf": "SP",
+                    "cidade": "São Paulo",
+                    "bairro": "Paulista",
+                    "status": 1,
+                    "daT_INCLUSAO": "2020-05-19T18:54:16"
+                }
+            ]
+        }
+    ],
+    "statusCode": 200,
+    "status": "Sucesso"
+}

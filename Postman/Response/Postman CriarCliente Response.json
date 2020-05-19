@@ -1,0 +1,37 @@
+{
+    "response": {
+        "clientes": {
+            "id": 7,
+            "nome": "José",
+            "dT_NASCIMENTO": "2020-05-18T00:00:00",
+            "status": 1,
+            "daT_INCLUSAO": "2020-05-19T18:54:16"
+        },
+        "clientE_ENDERECOS": [
+            {
+                "id": 8,
+                "iD_CLIENTE": 7,
+                "logradouro": "Avenida Paulista",
+                "cep": "11111000",
+                "uf": "SP",
+                "cidade": "São Paulo",
+                "bairro": "Paulista",
+                "status": 1,
+                "daT_INCLUSAO": "2020-05-19T18:54:16"
+            },
+            {
+                "id": 9,
+                "iD_CLIENTE": 7,
+                "logradouro": "Avenida Paulista",
+                "cep": "11111000",
+                "uf": "SP",
+                "cidade": "São Paulo",
+                "bairro": "Paulista",
+                "status": 1,
+                "daT_INCLUSAO": "2020-05-19T18:54:16"
+            }
+        ]
+    },
+    "statusCode": 200,
+    "status": "Sucesso"
+}

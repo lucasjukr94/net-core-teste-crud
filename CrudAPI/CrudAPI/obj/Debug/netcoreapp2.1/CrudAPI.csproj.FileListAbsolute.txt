@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.deps.json
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.runtimeconfig.json
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.dll
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.RazorAssemblyInfo.cache
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.RazorAssemblyInfo.cs
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.AssemblyInfo.cs
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.pdb
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.dll
+C:\Users\lucas\Desktop\net-core-crud-api\CrudAPI\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.pdb
